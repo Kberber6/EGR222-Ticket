@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c50e7fb-81b1-464e-a76b-460856749d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ticket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Ticket/AdvanceTicket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Ticket/StudentAdvanceTicket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Ticket/Ticket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Ticket/TicketClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Ticket/WalkupTicket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvanceTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentAdvanceTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WalkupTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -191,7 +174,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540171718583" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540172056133" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,12 +214,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540164207830</updated>
-      <workItem from="1540164211268" duration="7019000" />
+      <workItem from="1540164211268" duration="7692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7019000" />
+    <option name="totallyTimeSpent" value="7692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
